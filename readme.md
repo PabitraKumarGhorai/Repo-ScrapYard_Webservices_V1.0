@@ -1,6 +1,6 @@
-### ScrapYard Webservice ###
+## ScrapYard Webservice ###
 
-## This Flask based webtool which takes response from user and store in Cloud based data warehouse for further analysis.
+### This Flask based webtool which takes response from user and store in Cloud based data warehouse for further analysis.
 
 ## Tools & Technologies used:
 1. Flask
