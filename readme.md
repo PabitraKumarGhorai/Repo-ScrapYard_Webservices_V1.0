@@ -14,7 +14,7 @@
 
 ### Steps for activating App Services
 
-1. Set Virtual env by typing: "python -m venv <your-env-name> <project folder path>
+1. Set Virtual env by typing: "python -m venv your-env-name project folder path"
 2. Type to activate venv: "set-ExecutionPolicy RemoteSigned -Scope Process
-3. After this command type: "<your-env-name>\Scripts\activate
-4. Now time to install all pakages to <your-env> : "pip install -r requirements.txt"
+3. After this command type: "your-env-name\Scripts\activate"
+4. Now time to install all pakages to your-env : "pip install -r requirements.txt"
